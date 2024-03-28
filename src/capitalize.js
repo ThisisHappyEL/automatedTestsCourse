@@ -7,6 +7,4 @@
     return `${firstChar}${restSubstring}`;
   };
 
-  console.log(capitalize('слово'))
-
   export default capitalize;
